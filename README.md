@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Currently: Sr. ML Engineer @tasq
 
-    Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale
+- Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale
 
 Previous affiliations and collaborations:
 
