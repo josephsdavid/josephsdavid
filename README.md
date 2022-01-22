@@ -16,3 +16,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently: Sr. ML Engineer @tasq
+
+    Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale
+
+Previous affiliations and collaborations:
+
+- Stanford AIMI
+    - contrastive multimodal deep learning
+
+- NASA Goddard
+    - Automated Spectroscopy
+
+- SMU
+    - Masters
+    - Published paper on using attention on sEMG signals for smart prosthetics, published to ML4H 2020
+
+Interests:
+- Neovim
+- Linux
+- Chess
+
+Currently I am learning:
+- Lua
+- Rust
