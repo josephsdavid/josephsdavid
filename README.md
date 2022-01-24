@@ -45,5 +45,5 @@ Currently I am learning:
 - Rust
 
 
-![profile views](https://komarev.com/ghpvc/?username=yjosephsdavid![](https://komarev.com/ghpvc/?username=your-github-username))
+![profile views](https://komarev.com/ghpvc/?username=josephsdavid)
 
