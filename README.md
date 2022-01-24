@@ -39,10 +39,12 @@ Interests:
 - Neovim
 - Linux
 - Chess
+- Cooking
 
 Currently I am learning:
 - Lua
 - Rust
+- GTD
 
 
 ![profile views](https://komarev.com/ghpvc/?username=josephsdavid)
