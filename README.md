@@ -43,3 +43,7 @@ Interests:
 Currently I am learning:
 - Lua
 - Rust
+
+
+![profile views](https://komarev.com/ghpvc/?username=yjosephsdavid![](https://komarev.com/ghpvc/?username=your-github-username))
+
