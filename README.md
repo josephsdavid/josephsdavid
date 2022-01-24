@@ -34,6 +34,8 @@ Previous affiliations and collaborations:
     - Published paper on using attention on sEMG signals for smart prosthetics, published to ML4H 2020
 
 Interests:
+- Unsupervised, self-supervised, and representation learning
+- High frequency time series and signals
 - Neovim
 - Linux
 - Chess
