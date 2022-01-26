@@ -32,18 +32,27 @@ I am a machine learning engineer, python lover, and chess addict.
 
 <h3 align="center">Interests</h3>
 - Neovim
+
 - Linux
+
 - Chess
+
 - Unsupervised, self-supervised, and representation learning
+
 - High frequency time series and signals
+
 - Cooking
+
 - From Software games
 
 
 <h3 align="center">Things I am excited about learning</h3>
 - Lua
+
 - Rust
+
 - GTD
+
 - [Neorg](https://github.com/nvim-neorg/neorg)
 
 
