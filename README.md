@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">About me</h2>
-I am a machine learning engineer🚀, python🐍 lover, and chess addict. 
+I am a machine learning engineer🚀, python🐍 lover, and chess addict 🕵 . 
 
 <h2 align="center">Resume</h2>
 
@@ -20,11 +20,11 @@ I am a machine learning engineer🚀, python🐍 lover, and chess addict.
 
 **Previous affiliations and collaborations:**
 
-**Stanford AIMI**: contrastive multimodal deep learning🕵 
+**Stanford AIMI**: contrastive multimodal deep learning  
 
-**NASA Goddard**: [Automated Spectroscopy](https://github.com/josephsdavid/autospec), presented as a talk at ACM Astrochemical complexity conference in 2020💪
+**NASA Goddard**: [Automated Spectroscopy](https://github.com/josephsdavid/autospec), presented as a talk at ACM Astrochemical complexity conference in 2020 
 
-**SMU**: Masters, thesis on using attention on [sEMG signals for smart prosthetics](https://github.com/josephsdavid/semg_repro), published to [ML4H 2020](https://arxiv.org/pdf/2006.03645.pdf)🆒
+**SMU**: Masters, thesis on using attention on [sEMG signals for smart prosthetics](https://github.com/josephsdavid/semg_repro), published to [ML4H 2020](https://arxiv.org/pdf/2006.03645.pdf)
 
 
 <h2 align="center">Interests</h2>
