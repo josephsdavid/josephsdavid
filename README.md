@@ -54,5 +54,13 @@ I am a machine learning engineer, python lover, and chess addict.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephsdavid&theme=dracula"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephsdavid&theme=dracula"/>
 </details>
 
+
+<details closed>
+<summary>Dotfiles</summary>
+<br>
+[Neovim configuration](https://github.com/josephsdavid/neovim2)
+[Linux dotfiles](https://github.com/josephsdavid/dots)
+</details>
+
 ![profile views](https://komarev.com/ghpvc/?username=josephsdavid)
 
