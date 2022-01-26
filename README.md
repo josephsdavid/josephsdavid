@@ -47,7 +47,7 @@ I am a machine learning engineer, python lover, and chess addict.
 
 
 <h2 align="center">Misc</h2>
-<details open>
+<details closed>
 <summary>My profile statistics</summary>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephsdavid&theme=dracula" alt="Resumen" />
@@ -64,6 +64,8 @@ I am a machine learning engineer, python lover, and chess addict.
 [Linux dotfiles](https://github.com/josephsdavid/dots)
 
 </details>
+
+---
 
 ![profile views](https://komarev.com/ghpvc/?username=josephsdavid)
 
