@@ -7,7 +7,7 @@
 <h2 align="center">About me</h2>
 I am a machine learning engineer, python lover, and chess addict. 
 
-<h3 align="center">Resume</h3>
+<h2 align="center">Resume</h2>
 
 **Currently:** Sr. ML Engineer @tasq
 
@@ -27,7 +27,7 @@ I am a machine learning engineer, python lover, and chess addict.
 **SMU**: Masters, thesis on using attention on [sEMG signals for smart prosthetics](https://github.com/josephsdavid/semg_repro), published to [ML4H 2020](https://arxiv.org/pdf/2006.03645.pdf)
 
 
-<h3 align="center">Interests</h3>
+<h2 align="center">Interests</h2>
 
 - Neovim
 - Linux
@@ -38,7 +38,7 @@ I am a machine learning engineer, python lover, and chess addict.
 - From Software games
 
 
-<h3 align="center">Things I am excited about learning</h3>
+<h2 align="center">Things I am excited about learning</h2>
 
 - Lua
 - Rust
@@ -46,7 +46,7 @@ I am a machine learning engineer, python lover, and chess addict.
 - [Neorg](https://github.com/nvim-neorg/neorg)
 
 
-<h3 align="center">Misc</h3>
+<h2 align="center">Misc</h2>
 <details open>
 <summary>My profile statistics</summary>
 <br>
