@@ -48,7 +48,7 @@ I am a machine learning engineer, python lover, and chess addict.
 
 <h2 align="center">Misc</h2>
 <details closed>
-<summary>My profile statistics</summary>
+<summary>My profile statistics (click me!)</summary>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephsdavid&theme=dracula" alt="Resumen" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephsdavid&theme=dracula"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephsdavid&theme=dracula"/>
@@ -56,7 +56,7 @@ I am a machine learning engineer, python lover, and chess addict.
 
 
 <details closed>
-<summary>Dotfiles</summary>
+<summary>Dotfiles (click me!)</summary>
 <br>
 
 [Neovim configuration](https://github.com/josephsdavid/neovim2)
