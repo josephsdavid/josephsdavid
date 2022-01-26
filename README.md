@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm David!</h1>
+<h1 align="center">👋 Hey, I'm David! 😎</h1>
 <p align="center">
   <a href="mailto:josephs.david11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://discord.com/users/795108387335307264" target="_blank"><img src="https://badgen.net/badge/icon/daveyjones01?icon=discord&label" alt="Discord" /></a>
