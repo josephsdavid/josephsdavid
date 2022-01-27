@@ -51,7 +51,7 @@ from itertools import chain
 
 
 devtools = ["nvim", "bash", "docker", "poetry", "direnv", "AWS", "serverless"]
-python = ["Collections", "torch", "numpy", "scipy", "boto3", "functools", "logging" "sklearn"]
+python = ["Collections", "torch", "numpy", "scipy", "boto3", "functools", "logging", "sklearn", "pydantic" ]
 
 
 __all__ = list(chain(*[devtools, python]))
