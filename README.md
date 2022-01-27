@@ -3,9 +3,7 @@
   <a href="mailto:josephs.david11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://discord.com/users/795108387335307264" target="_blank"><img src="https://badgen.net/badge/icon/daveyjones01?icon=discord&label" alt="Discord" /></a>
 </p>
-
-<h2 align="center">About me</h2>
-I am a machine learning engineer🚀, python🐍 lover, and chess addict 🕵 . 
+<h2 align="center">About me</h2> I am a machine learning engineer🚀, python🐍 lover, and chess addict 🕵 . 
 
 <h2 align="center">Resume</h2>
 
@@ -44,6 +42,21 @@ I am a machine learning engineer🚀, python🐍 lover, and chess addict 🕵 .
 - Rust
 - GTD
 - [Neorg](https://github.com/nvim-neorg/neorg)
+
+
+<h2 align="center">David/__init__.py</h2>
+
+```python
+from itertools import chain
+
+
+devtools = ["nvim", "bash", "docker", "poetry", "direnv", "AWS", "serverless"]
+python = ["Collections", "torch", "numpy", "scipy", "boto3", "functools", "logging" "sklearn"]
+
+
+__all__ = list(chain(*[devtools, python]))
+```
+
 
 
 <h2 align="center">Misc</h2>
