@@ -44,6 +44,11 @@
 - [Neorg](https://github.com/nvim-neorg/neorg)
 
 
+<h2 align="center">What I am reading</h2>
+
+- [Numerical Recipes](http://www.numerical.recipes/)
+
+
 <h2 align="center">David/__init__.py</h2>
 
 ```python
