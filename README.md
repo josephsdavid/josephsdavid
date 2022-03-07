@@ -38,6 +38,8 @@
 
 <h2 align="center">Things I am excited about learning</h2>
 
+- Julia
+- EEG analysis
 - Lua
 - Rust
 - GTD
