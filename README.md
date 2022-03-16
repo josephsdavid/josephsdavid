@@ -7,16 +7,21 @@
 
 <h2 align="center">Resume</h2>
 
-**Currently:** Sr. ML Engineer @tasq
+**Currently:**
 
-- Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale. Projects include:
-  - Live anomaly detection and event categorization/identification stack
-  - Optimization using sensor data, both naive historical and (CURRENT WORK) using reinforcement learning
-  - Signal segmentation accurate enough to identify when sensors meant to detect segments are broken
-  - Fast multidimensional pattern matching algorithm
+**Sr. ML Engineer @Beacon Biosignals**
+- Just getting started!!
  
 
 **Previous affiliations and collaborations:**
+ 
+ **Sr. ML Engineer @tasq**
+
+  - Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale. Projects include:
+    - Live anomaly detection and event categorization/identification stack
+    - Optimization using sensor data, both naive historical and (CURRENT WORK) using reinforcement learning
+    - Signal segmentation accurate enough to identify when sensors meant to detect segments are broken
+    - Fast multidimensional pattern matching algorithm
 
 **Stanford AIMI**: contrastive multimodal deep learning  
 
