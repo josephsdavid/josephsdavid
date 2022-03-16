@@ -15,7 +15,7 @@
 
 **Previous affiliations and collaborations:**
  
- **Sr. ML Engineer @tasq**
+ *Sr. ML Engineer @tasq*
 
   - Segmentation, anomaly detection, classification, and categorization of high frequency signals, at scale. Projects include:
     - Live anomaly detection and event categorization/identification stack
@@ -23,11 +23,11 @@
     - Signal segmentation accurate enough to identify when sensors meant to detect segments are broken
     - Fast multidimensional pattern matching algorithm
 
-**Stanford AIMI**: contrastive multimodal deep learning  
+*Stanford AIMI*: contrastive multimodal deep learning  
 
-**NASA Goddard**: [Automated Spectroscopy](https://github.com/josephsdavid/autospec), presented as a talk at ACM Astrochemical complexity conference in 2020 
+*NASA Goddard*: [Automated Spectroscopy](https://github.com/josephsdavid/autospec), presented as a talk at ACM Astrochemical complexity conference in 2020 
 
-**SMU**: Masters, thesis on using attention on [sEMG signals for smart prosthetics](https://github.com/josephsdavid/semg_repro), published to [ML4H 2020](https://arxiv.org/pdf/2006.03645.pdf)
+*SMU*: Masters, thesis on using attention on [sEMG signals for smart prosthetics](https://github.com/josephsdavid/semg_repro), published to [ML4H 2020](https://arxiv.org/pdf/2006.03645.pdf)
 
 
 <h2 align="center">Interests</h2>
