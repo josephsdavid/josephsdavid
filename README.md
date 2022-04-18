@@ -54,6 +54,7 @@
 <h2 align="center">What I am reading</h2>
 
 - [Numerical Recipes](http://www.numerical.recipes/)
+- [3 Body Problem](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063)
 
 
 <h2 align="center">David/__init__.py</h2>
