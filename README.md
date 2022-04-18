@@ -3,7 +3,7 @@
   <a href="mailto:josephs.david11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://discord.com/users/795108387335307264" target="_blank"><img src="https://badgen.net/badge/icon/daveyjones01?icon=discord&label" alt="Discord" /></a>
 </p>
-<h2 align="center">About me</h2> I am a machine learning engineer🚀, python🐍 lover, and chess addict 🕵 . 
+<h2 align="center">About me</h2> I am a machine learning engineer🚀, ex python🐍 lover (now julia lover), and chess addict 🕵 . 
 
 <h2 align="center">Resume</h2>
 
