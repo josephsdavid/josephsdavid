@@ -77,7 +77,7 @@ __all__ = list(chain(*[devtools, python]))
 <summary>My profile statistics (click me!)</summary>
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephsdavid&theme=dracula" alt="Resumen" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephsdavid&theme=dracula"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephsdavid&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephsdavid&theme=dracula"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josephsdavid&theme=dracula"/>
 </details>
 
 
