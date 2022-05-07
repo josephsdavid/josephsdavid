@@ -76,8 +76,11 @@ __all__ = list(chain(*[devtools, python]))
 <details closed>
 <summary>My profile statistics (click me!)</summary>
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josephsdavid&theme=dracula" alt="Resumen" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josephsdavid&theme=dracula"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josephsdavid&theme=dracula"/>
+
+[![](https://raw.githubusercontent.com/josephsdavid/josephsdavid/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephsdavid/josephsdavid/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/josephsdavid/josephsdavid/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/josephsdavid/josephsdavid/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/josephsdavid/josephsdavid/main/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </details>
 
 
