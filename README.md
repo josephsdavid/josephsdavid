@@ -32,6 +32,7 @@
 
 <h2 align="center">Interests</h2>
 
+- Making one million half finished projects
 - Neovim
 - Linux
 - Chess
