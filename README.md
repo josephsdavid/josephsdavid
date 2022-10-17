@@ -2,8 +2,17 @@
 <p align="center">
   <a href="mailto:josephs.david11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://discord.com/users/795108387335307264" target="_blank"><img src="https://badgen.net/badge/icon/daveyjones01?icon=discord&label" alt="Discord" /></a>
+  
+  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 </p>
-<h2 align="center">About me</h2> I am a machine learning engineer🚀, ex python🐍 lover (now julia lover), and chess addict 🕵 . 
+
+<h2 align="center">About me</h2> 
+
+I am a machine learning engineer🚀, julia fan, and chess addict 🕵 .
+
 
 <h2 align="center">Resume</h2>
 
@@ -45,11 +54,10 @@
 <h2 align="center">Things I am excited about learning</h2>
 
 - Julia
-- EEG analysis
 - Lua
 - Rust
-- GTD
-- [Neorg](https://github.com/nvim-neorg/neorg)
+- Scientific computing
+- Bayesian stats
 
 
 <h2 align="center">What I am reading</h2>
@@ -58,23 +66,8 @@
 - [3 Body Problem](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063)
 
 
-<h2 align="center">David/__init__.py</h2>
-
-```python
-from itertools import chain
-
-
-devtools = ["nvim", "bash", "docker", "poetry", "direnv", "AWS", "serverless"]
-python = ["Collections", "torch", "numpy", "scipy", "boto3", "functools", "logging", "sklearn", "pydantic" ]
-
-
-__all__ = list(chain(*[devtools, python]))
-```
-
-
-
 <h2 align="center">Misc</h2>
-<details closed>
+<details>
 <summary>My profile statistics (click me!)</summary>
 <br>
 
