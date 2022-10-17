@@ -4,8 +4,10 @@
   <a href="https://discord.com/users/795108387335307264" target="_blank"><img src="https://badgen.net/badge/icon/daveyjones01?icon=discord&label" alt="Discord" /></a>
   
   
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=josephsdavid&column=3&margin-w=15&margin-h=15" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
