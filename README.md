@@ -50,7 +50,8 @@ I am a machine learning engineer🚀, julia fan, and chess addict 🕵 .
 - Unsupervised, self-supervised, and representation learning
 - High frequency time series and signals
 - Cooking
-- From Software games
+- Self-sustainability
+- Mountain biking
 
 
 <h2 align="center">Things I am excited about learning</h2>
