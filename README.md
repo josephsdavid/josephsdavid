@@ -21,7 +21,7 @@ I am a machine learning engineer🚀, julia fan, and chess addict 🕵 .
 **Currently:**
 
 **Sr. ML Engineer @Beacon Biosignals**
-- Just getting started!!
+- Deep learning for various EEG markers, including: sleep staging, seizure detection, non-biological artifact detection
  
 
 **Previous affiliations and collaborations:**
