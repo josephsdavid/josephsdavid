@@ -22,7 +22,7 @@ Senior ML engineer 🚀, Julia fan, chess addict 🕵, and aspiring self-suffici
 - Neovim
 - Linux
 - Chess
-- LLMs, agents, and making them actually reliable
+- Anomaly detection and unsupervised learning
 - High frequency time series and signals
 - Self-sustainability and growing things 🌿
 - Cooking
@@ -35,7 +35,7 @@ Senior ML engineer 🚀, Julia fan, chess addict 🕵, and aspiring self-suffici
 - Rust
 - Scientific computing
 - Bayesian stats
-- Making AI actually work in production (harder than it sounds)
+- the frequency domain
 
 <h2 align="center">Misc</h2>
 
